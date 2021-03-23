@@ -1,0 +1,16 @@
+{
+  "name": "eindopdracht006",
+  "version": "1.0.0",
+  "description": "",
+  "main": "farm.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "debug": "nodemon --inspect -e js farm.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
